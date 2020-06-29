@@ -1,0 +1,2 @@
+# BKHR-bot
+https://discordapp.com/api/webhooks/727199640025432126/6fXjDWJ7gc1lB4AWE1YSxZnl28pCpQiIQa_xXSJ3pHPTNkQDMklQYax2BZphrQLLxNyw/github
